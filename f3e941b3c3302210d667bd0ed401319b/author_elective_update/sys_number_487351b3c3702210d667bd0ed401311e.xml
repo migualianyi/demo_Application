@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_1641982_demoappl_expense">x_1641982_demoappl_expense</category>
+        <maximum_digits>7</maximum_digits>
+        <number>2000</number>
+        <prefix>EXP</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 01:18:50</sys_created_on>
+        <sys_id>487351b3c3702210d667bd0ed401311e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EXP</sys_name>
+        <sys_package display_value="DemoApplication" source="x_1641982_demoappl">f3e941b3c3302210d667bd0ed401319b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</sys_scope>
+        <sys_update_name>sys_number_487351b3c3702210d667bd0ed401311e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 01:18:50</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</application>
+        <file_path/>
+        <instance_id>cc276c931b99c2d4c8432f8dee4bcba6</instance_id>
+        <instance_name>dev256788</instance_name>
+        <name>sys_number_487351b3c3702210d667bd0ed401311e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_1641982_demoappl_expense">x_1641982_demoappl_expense</category><maximum_digits>7</maximum_digits><number>2000</number><prefix>EXP</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-16 01:18:50</sys_created_on><sys_id>487351b3c3702210d667bd0ed401311e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>EXP</sys_name><sys_package display_value="DemoApplication" source="x_1641982_demoappl">f3e941b3c3302210d667bd0ed401319b</sys_package><sys_policy/><sys_scope display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</sys_scope><sys_update_name>sys_number_487351b3c3702210d667bd0ed401311e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-16 01:18:50</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>1243155047</payload_hash>
+        <record_name>EXP</record_name>
+        <reverted_from/>
+        <source>b7e901bbc3302210d667bd0ed401312f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 01:18:50</sys_created_on>
+        <sys_id>08731577c3702210d667bd0ed40131ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1963c2d68590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 01:18:50</sys_updated_on>
+        <type>Number</type>
+        <update_guid>0c7315776e7022107dfa120f2e4470fe</update_guid>
+        <update_guid_history>0c7315776e7022107dfa120f2e4470fe:1243155047</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 01:24:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>0dc92c7066aa404b8b8457a8a88b5989</sys_id>
+        <sys_metadata>487351b3c3702210d667bd0ed401311e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EXP</sys_name>
+        <sys_package display_value="DemoApplication" source="x_1641982_demoappl">f3e941b3c3302210d667bd0ed401319b</sys_package>
+        <sys_parent display_value="">46dcc57fc3302210d667bd0ed40131d2</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</sys_scope>
+        <sys_scope_delete display_value="">07521af840ad4773a2508f8db8bc1aa1</sys_scope_delete>
+        <sys_update_name>sys_number_487351b3c3702210d667bd0ed401311e</sys_update_name>
+        <sys_update_version display_value="sys_number_487351b3c3702210d667bd0ed401311e">08731577c3702210d667bd0ed40131ff</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 01:24:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

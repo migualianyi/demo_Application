@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Invoice">66c1d1f3c3702210d667bd0ed401313b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>expenses</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1641982_demoappl_expense</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1641982_demoappl.expense_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 01:11:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eec1d1f3c3702210d667bd0ed401313f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>expenses</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DemoApplication" source="x_1641982_demoappl">f3e941b3c3302210d667bd0ed401319b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</sys_scope>
+        <sys_update_name>sys_app_module_eec1d1f3c3702210d667bd0ed401313f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 01:11:38</sys_updated_on>
+        <timeline_page/>
+        <title>expenses</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</application>
+        <file_path/>
+        <instance_id>cc276c931b99c2d4c8432f8dee4bcba6</instance_id>
+        <instance_name>dev256788</instance_name>
+        <name>sys_app_module_eec1d1f3c3702210d667bd0ed401313f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Invoice">66c1d1f3c3702210d667bd0ed401313b</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>expenses</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1641982_demoappl_expense</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1641982_demoappl.expense_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-16 01:11:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>eec1d1f3c3702210d667bd0ed401313f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>expenses</sys_name><sys_overrides/><sys_package display_value="DemoApplication" source="x_1641982_demoappl">f3e941b3c3302210d667bd0ed401319b</sys_package><sys_policy/><sys_scope display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</sys_scope><sys_update_name>sys_app_module_eec1d1f3c3702210d667bd0ed401313f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-16 01:11:38</sys_updated_on><timeline_page/><title>expenses</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1799253262</payload_hash>
+        <record_name>expenses</record_name>
+        <reverted_from/>
+        <source>b7e901bbc3302210d667bd0ed401312f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 01:11:38</sys_created_on>
+        <sys_id>62c1d1f3c3702210d667bd0ed4013144</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1963c26ce820000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 01:11:38</sys_updated_on>
+        <type>Module</type>
+        <update_guid>26c1d1f3b57022108bd3cb63b556be43</update_guid>
+        <update_guid_history>26c1d1f3b57022108bd3cb63b556be43:-1799253262</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="expenses">70d451f7c3702210d667bd0ed401317b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 01:24:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>16fa9d79c54247fa8304807b1cc23364</sys_id>
+        <sys_metadata>eec1d1f3c3702210d667bd0ed401313f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>expenses</sys_name>
+        <sys_package display_value="DemoApplication" source="x_1641982_demoappl">f3e941b3c3302210d667bd0ed401319b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</sys_scope>
+        <sys_scope_delete display_value="">07521af840ad4773a2508f8db8bc1aa1</sys_scope_delete>
+        <sys_update_name>sys_app_module_eec1d1f3c3702210d667bd0ed401313f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_eec1d1f3c3702210d667bd0ed401313f">62c1d1f3c3702210d667bd0ed4013144</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 01:24:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

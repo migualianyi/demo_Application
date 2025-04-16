@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="3bfcdd33c3b02210d667bd0ed40131a2" sys_domain="global" table="x_1641982_demoappl_expense" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>invoice_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-16 02:00:37</sys_created_on>
+            <sys_id>080ddd33c3b02210d667bd0ed40131d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1641982_demoappl_expense" sys_domain="global" view="Default view">3bfcdd33c3b02210d667bd0ed40131a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-16 02:00:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>invoice_account</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-16 02:00:37</sys_created_on>
+            <sys_id>8c0ddd33c3b02210d667bd0ed40131d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1641982_demoappl_expense" sys_domain="global" view="Default view">3bfcdd33c3b02210d667bd0ed40131a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-16 02:00:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-16 02:00:37</sys_created_on>
+            <sys_id>040ddd33c3b02210d667bd0ed40131d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1641982_demoappl_expense" sys_domain="global" view="Default view">3bfcdd33c3b02210d667bd0ed40131a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-16 02:00:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supplier_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-16 02:00:37</sys_created_on>
+            <sys_id>880ddd33c3b02210d667bd0ed40131d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1641982_demoappl_expense" sys_domain="global" view="Default view">3bfcdd33c3b02210d667bd0ed40131a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-16 02:00:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>invoice_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-16 02:00:37</sys_created_on>
+            <sys_id>000ddd33c3b02210d667bd0ed40131d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_1641982_demoappl_expense" sys_domain="global" view="Default view">3bfcdd33c3b02210d667bd0ed40131a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-16 02:00:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_1641982_demoappl_expense</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-16 02:00:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3bfcdd33c3b02210d667bd0ed40131a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1641982_demoappl_expense</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DemoApplication" source="x_1641982_demoappl">f3e941b3c3302210d667bd0ed401319b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</sys_scope>
+            <sys_update_name>sys_ui_section_3bfcdd33c3b02210d667bd0ed40131a2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-16 02:00:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</application>
+        <file_path/>
+        <instance_id>cc276c931b99c2d4c8432f8dee4bcba6</instance_id>
+        <instance_name>dev256788</instance_name>
+        <name>sys_ui_section_3bfcdd33c3b02210d667bd0ed40131a2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="3bfcdd33c3b02210d667bd0ed40131a2" sys_domain="global" table="x_1641982_demoappl_expense" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>invoice_number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-16 02:00:37</sys_created_on><sys_id>080ddd33c3b02210d667bd0ed40131d6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1641982_demoappl_expense" sys_domain="global" view="Default view">3bfcdd33c3b02210d667bd0ed40131a2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-16 02:00:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>invoice_account</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-16 02:00:37</sys_created_on><sys_id>8c0ddd33c3b02210d667bd0ed40131d6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1641982_demoappl_expense" sys_domain="global" view="Default view">3bfcdd33c3b02210d667bd0ed40131a2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-16 02:00:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-16 02:00:37</sys_created_on><sys_id>040ddd33c3b02210d667bd0ed40131d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1641982_demoappl_expense" sys_domain="global" view="Default view">3bfcdd33c3b02210d667bd0ed40131a2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-16 02:00:37</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>supplier_name</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-16 02:00:37</sys_created_on><sys_id>880ddd33c3b02210d667bd0ed40131d7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1641982_demoappl_expense" sys_domain="global" view="Default view">3bfcdd33c3b02210d667bd0ed40131a2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-16 02:00:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>invoice_date</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-16 02:00:37</sys_created_on><sys_id>000ddd33c3b02210d667bd0ed40131d8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_1641982_demoappl_expense" sys_domain="global" view="Default view">3bfcdd33c3b02210d667bd0ed40131a2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-16 02:00:37</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_1641982_demoappl_expense</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-04-16 02:00:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3bfcdd33c3b02210d667bd0ed40131a2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1641982_demoappl_expense</sys_name><sys_overrides/><sys_package display_value="DemoApplication" source="x_1641982_demoappl">f3e941b3c3302210d667bd0ed401319b</sys_package><sys_policy/><sys_scope display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</sys_scope><sys_update_name>sys_ui_section_3bfcdd33c3b02210d667bd0ed40131a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-04-16 02:00:36</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1609345153</payload_hash>
+        <record_name>Expense</record_name>
+        <reverted_from/>
+        <source>b7e901bbc3302210d667bd0ed401312f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 02:00:37</sys_created_on>
+        <sys_id>800ddd33c3b02210d667bd0ed40131da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1963c53a7440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 02:00:37</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>080ddd336db02210fc2d0c97be985fd9</update_guid>
+        <update_guid_history>080ddd336db02210fc2d0c97be985fd9:1609345153</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-16 02:02:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>7c2835a18e5e46d6ae12ee54afb11b84</sys_id>
+        <sys_metadata>3bfcdd33c3b02210d667bd0ed40131a2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="DemoApplication" source="x_1641982_demoappl">f3e941b3c3302210d667bd0ed401319b</sys_package>
+        <sys_parent display_value="Expense">b5f35537c3702210d667bd0ed40131a4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DemoApplication">f3e941b3c3302210d667bd0ed401319b</sys_scope>
+        <sys_scope_delete display_value="">07521af840ad4773a2508f8db8bc1aa1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_3bfcdd33c3b02210d667bd0ed40131a2</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_3bfcdd33c3b02210d667bd0ed40131a2">800ddd33c3b02210d667bd0ed40131da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-16 02:02:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
