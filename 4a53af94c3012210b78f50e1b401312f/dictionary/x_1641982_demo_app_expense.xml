@@ -7,7 +7,7 @@
         <element label="Description" max_length="40" name="description" type="string"/>
         <element display="true" label="Invoice Number" max_length="40" name="invoice_number" type="integer"/>
         <element label="Reject Reason" max_length="40" name="reject_reason" type="string"/>
-        <element label="EmployeeName" max_length="40" name="employeename" type="string"/>
+        <element label="EmployeeName" max_length="40" name="employeename" reference="sys_user" type="reference"/>
         <element choice="3" default="1" label="Expense Status" max_length="40" name="expense_status" type="string">
             <choice>
                 <element inactive_on_update="false" label="1-requested" sequence="0" value="1"/>
