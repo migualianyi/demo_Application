@@ -11,7 +11,7 @@
         <name>Demo Populate Email Field</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
-   if ( newValue === ''|| newValue == oldValue) {
+   if ( newValue === '') {
 
       return;
    }
@@ -32,7 +32,7 @@ var getEmailAddr = new GlideAjax('GetEmailAddress');
     // Extract the email address from the response, clear any value from the email field, 
     // set new value in the email field
     var emailFromScriptInclude = response.responseXML.documentElement.getAttribute("answer");
-	  alert("getEmailAddr" + emailFromScriptInclude);
+
     g_form.clearValue('employeeemail');
     g_form.setValue('employeeemail',emailFromScriptInclude);
   }
@@ -43,7 +43,7 @@ var getEmailAddr = new GlideAjax('GetEmailAddress');
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>ac5c5420c3452210b78f50e1b401317b</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Demo Populate Email Field</sys_name>
         <sys_overrides/>
         <sys_package display_value="demo_Application" source="x_1641982_demo_app">4a53af94c3012210b78f50e1b401312f</sys_package>
@@ -51,7 +51,7 @@ var getEmailAddr = new GlideAjax('GetEmailAddress');
         <sys_scope display_value="demo_Application">4a53af94c3012210b78f50e1b401312f</sys_scope>
         <sys_update_name>sys_script_client_ac5c5420c3452210b78f50e1b401317b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-18 06:35:45</sys_updated_on>
+        <sys_updated_on>2025-04-18 06:43:33</sys_updated_on>
         <table>x_1641982_demo_app_expense</table>
         <type>onChange</type>
         <ui_type>0</ui_type>
