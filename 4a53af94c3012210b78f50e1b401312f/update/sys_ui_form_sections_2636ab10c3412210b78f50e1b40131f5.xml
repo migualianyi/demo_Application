@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="2636ab10c3412210b78f50e1b40131f5" sys_domain="global" table="x_1641982_demo_app_expense" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-18 01:17:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ae36eb10c3412210b78f50e1b40131cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1641982_demo_app_expense" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">2636ab10c3412210b78f50e1b40131f5</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-18 01:17:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1641982_demo_app_expense</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-18 01:17:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2636ab10c3412210b78f50e1b40131f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1641982_demo_app_expense</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="demo_Application" source="x_1641982_demo_app">4a53af94c3012210b78f50e1b401312f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="demo_Application">4a53af94c3012210b78f50e1b401312f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2636ab10c3412210b78f50e1b40131f5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-18 01:17:08</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
