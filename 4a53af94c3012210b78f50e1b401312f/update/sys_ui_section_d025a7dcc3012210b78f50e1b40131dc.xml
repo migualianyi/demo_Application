@@ -4,13 +4,13 @@
             <element>employeename</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>0356af10c3412210b78f50e1b401318b</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>cbb51355c3812210b78f50e1b4013177</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>invoice_number</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>8756af10c3412210b78f50e1b401318b</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>43b51355c3812210b78f50e1b4013178</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>invoice_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>0f56af10c3412210b78f50e1b401318b</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>c7b51355c3812210b78f50e1b4013178</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>8356af10c3412210b78f50e1b401318c</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>4fb51355c3812210b78f50e1b4013178</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>employeeemail</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>0b56af10c3412210b78f50e1b401318c</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>c3b51355c3812210b78f50e1b4013179</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>supplier_name</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>8f56af10c3412210b78f50e1b401318c</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>4bb51355c3812210b78f50e1b4013179</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>invoice_account</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>0756af10c3412210b78f50e1b401318d</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>cfb51355c3812210b78f50e1b4013179</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,69 +102,83 @@
             <element>.end_split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>8b56af10c3412210b78f50e1b401318d</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>47b51355c3812210b78f50e1b401317a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>expense_status</element>
+            <element>status</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>0356af10c3412210b78f50e1b401318e</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>cbb51355c3812210b78f50e1b401317a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expense_status</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>43b51355c3812210b78f50e1b401317b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reject_reason</element>
-            <position>9</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>8756af10c3412210b78f50e1b401318e</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>c7b51355c3812210b78f50e1b401317b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>expiring_date</element>
-            <position>10</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>0f56af10c3412210b78f50e1b401318e</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>4fb51355c3812210b78f50e1b401317b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>11</position>
+            <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-04-18 01:17:43</sys_created_on>
-            <sys_id>8356af10c3412210b78f50e1b401318f</sys_id>
+            <sys_created_on>2025-04-21 02:39:00</sys_created_on>
+            <sys_id>c3b51355c3812210b78f50e1b401317c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1641982_demo_app_expense" sys_domain="global" view="Default view">d025a7dcc3012210b78f50e1b40131dc</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-04-18 01:17:43</sys_updated_on>
+            <sys_updated_on>2025-04-21 02:39:00</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

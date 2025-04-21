@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+if (g_user.hasRole('admin') || g_user.hasRole('x_1641982_demo_app.admin')) {
+g_form.setDisplay('expense_status', true);
+} else {
+g_form.setDisplay('expense_status', false);
+}
+}]]></script_true>
+        <set_values/>
+        <short_description>Expense Status List display or not</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-21 02:53:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>95179f95c3812210b78f50e1b4013160</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Expense Status List display or not</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="demo_Application" source="x_1641982_demo_app">4a53af94c3012210b78f50e1b401312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo_Application">4a53af94c3012210b78f50e1b401312f</sys_scope>
+        <sys_update_name>sys_ui_policy_95179f95c3812210b78f50e1b4013160</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-21 02:59:31</sys_updated_on>
+        <table>x_1641982_demo_app_expense</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>95179f95c3812210b78f50e1b4013160</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-21 02:53:02</sys_created_on>
+        <sys_id>bcf85395c3812210b78f50e1b40131c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-21 02:53:02</sys_updated_on>
+        <table>sys_ui_policy</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
+</record_update>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Demo set status</description>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Demo set status</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+   var expenseStatus_integer =  g_form.getValue('expense_status');
+  var expenseStatus;
+   switch(expenseStatus_integer) {
+  case '1':
+    // code block
+	expenseStatus = 'Requested';
+    break;
+  case '2':
+    // code block
+	expenseStatus = 'Approved';
+    break;
+    case '3':
+	expenseStatus = 'Rejected';
+      break;
+  default:
+  expenseStatus = '';
+    // code block
+}
+
+  if (g_user.hasRole('admin') || g_user.hasRole('x_1641982_demo_app.admin')) {
+   g_form.setValue('status',expenseStatus);
+   }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-21 05:37:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c65df7d1c3452210b78f50e1b4013175</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Demo set status</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="demo_Application" source="x_1641982_demo_app">4a53af94c3012210b78f50e1b401312f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo_Application">4a53af94c3012210b78f50e1b401312f</sys_scope>
+        <sys_update_name>sys_script_client_c65df7d1c3452210b78f50e1b4013175</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-21 05:53:38</sys_updated_on>
+        <table>x_1641982_demo_app_expense</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

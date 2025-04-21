@@ -10,7 +10,7 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>3</choice>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
         <column_label>Expense Status</column_label>
@@ -58,7 +58,7 @@
         <sys_scope display_value="demo_Application">4a53af94c3012210b78f50e1b401312f</sys_scope>
         <sys_update_name>sys_dictionary_x_1641982_demo_app_expense_expense_status</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-18 01:49:54</sys_updated_on>
+        <sys_updated_on>2025-04-21 05:37:11</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

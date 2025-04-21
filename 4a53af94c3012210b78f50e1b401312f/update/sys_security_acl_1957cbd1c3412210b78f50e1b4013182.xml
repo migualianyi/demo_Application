@@ -2,40 +2,38 @@
     <sys_security_acl action="INSERT_OR_UPDATE">
         <active>true</active>
         <admin_overrides>true</admin_overrides>
-        <advanced>false</advanced>
+        <advanced>true</advanced>
         <applies_to/>
-        <condition table="x_1641982_demo_app_expense">employeenameDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="employeename" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </condition>
+        <condition/>
         <decision_type>allow</decision_type>
-        <description>Allow read for records in x_1641982_demo_app_expense, for users with role x_1641982_demo_app.expense_user, and if the ACL condition (employeenameDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ) evaluates to true.</description>
+        <description> allow user to see the fields on a new record form</description>
         <local_or_existing>Local</local_or_existing>
         <name>x_1641982_demo_app_expense</name>
         <operation display_value="read">read</operation>
-        <script/>
+        <script><![CDATA[current.isNewRecord();]]></script>
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-04-18 08:43:43</sys_created_on>
-        <sys_id>b0c485a0c3092210b78f50e1b401318a</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_created_on>2025-04-21 01:38:16</sys_created_on>
+        <sys_id>1957cbd1c3412210b78f50e1b4013182</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_1641982_demo_app_expense</sys_name>
         <sys_package display_value="demo_Application" source="x_1641982_demo_app">4a53af94c3012210b78f50e1b401312f</sys_package>
         <sys_policy/>
         <sys_scope display_value="demo_Application">4a53af94c3012210b78f50e1b401312f</sys_scope>
-        <sys_update_name>sys_security_acl_b0c485a0c3092210b78f50e1b401318a</sys_update_name>
+        <sys_update_name>sys_security_acl_1957cbd1c3412210b78f50e1b4013182</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-21 01:35:46</sys_updated_on>
+        <sys_updated_on>2025-04-21 01:38:16</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
     <sys_es_latest_script action="INSERT_OR_UPDATE">
-        <id>b0c485a0c3092210b78f50e1b401318a</id>
+        <id>1957cbd1c3412210b78f50e1b4013182</id>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-04-21 01:23:08</sys_created_on>
-        <sys_id>63548fddc3012210b78f50e1b40131c9</sys_id>
+        <sys_created_on>2025-04-21 01:38:11</sys_created_on>
+        <sys_id>d8d70fd1c3412210b78f50e1b40131dc</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-21 01:23:08</sys_updated_on>
+        <sys_updated_on>2025-04-21 01:38:11</sys_updated_on>
         <table>sys_security_acl</table>
         <use_es_latest>true</use_es_latest>
     </sys_es_latest_script>
