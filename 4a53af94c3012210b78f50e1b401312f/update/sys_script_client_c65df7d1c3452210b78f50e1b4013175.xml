@@ -33,6 +33,15 @@
 
   if (g_user.hasRole('admin') || g_user.hasRole('x_1641982_demo_app.admin')) {
    g_form.setValue('status',expenseStatus);
+   }else{
+
+      var today = new Date();
+      var d = new Date();
+      d.setDate(today.getDate() + 5);
+
+// Add 5 days to the current date
+ 
+   g_form.setValue('expiring_date', d.toLocaleDateString('en-CA'));
    }
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -41,7 +50,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c65df7d1c3452210b78f50e1b4013175</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name>Demo set status</sys_name>
         <sys_overrides/>
         <sys_package display_value="demo_Application" source="x_1641982_demo_app">4a53af94c3012210b78f50e1b401312f</sys_package>
@@ -49,7 +58,7 @@
         <sys_scope display_value="demo_Application">4a53af94c3012210b78f50e1b401312f</sys_scope>
         <sys_update_name>sys_script_client_c65df7d1c3452210b78f50e1b4013175</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-21 05:53:38</sys_updated_on>
+        <sys_updated_on>2025-04-22 07:32:16</sys_updated_on>
         <table>x_1641982_demo_app_expense</table>
         <type>onSubmit</type>
         <ui_type>0</ui_type>
